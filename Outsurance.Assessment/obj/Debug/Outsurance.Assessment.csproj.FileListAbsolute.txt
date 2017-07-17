@@ -1,0 +1,14 @@
+c:\users\gavin.jeffrey\documents\visual studio 2017\Projects\Outsurance.Assessment\obj\Debug\Outsurance.Assessment.csprojResolveAssemblyReference.cache
+c:\users\gavin.jeffrey\documents\visual studio 2017\Projects\Outsurance.Assessment\bin\Debug\Outsurance.Assessment.exe.config
+c:\users\gavin.jeffrey\documents\visual studio 2017\Projects\Outsurance.Assessment\bin\Debug\Outsurance.Assessment.exe
+c:\users\gavin.jeffrey\documents\visual studio 2017\Projects\Outsurance.Assessment\bin\Debug\Outsurance.Assessment.pdb
+c:\users\gavin.jeffrey\documents\visual studio 2017\Projects\Outsurance.Assessment\obj\Debug\Outsurance.Assessment.exe
+c:\users\gavin.jeffrey\documents\visual studio 2017\Projects\Outsurance.Assessment\obj\Debug\Outsurance.Assessment.pdb
+c:\users\gavin.jeffrey\documents\visual studio 2017\Projects\Outsurance.Assessment\bin\Debug\data.csv
+C:\Users\gavin.jeffrey\Documents\visual studio 2017\Projects\Outsurance\Outsurance.Assessment\bin\Debug\data.csv
+C:\Users\gavin.jeffrey\Documents\visual studio 2017\Projects\Outsurance\Outsurance.Assessment\bin\Debug\Outsurance.Assessment.exe.config
+C:\Users\gavin.jeffrey\Documents\visual studio 2017\Projects\Outsurance\Outsurance.Assessment\bin\Debug\Outsurance.Assessment.exe
+C:\Users\gavin.jeffrey\Documents\visual studio 2017\Projects\Outsurance\Outsurance.Assessment\bin\Debug\Outsurance.Assessment.pdb
+C:\Users\gavin.jeffrey\Documents\visual studio 2017\Projects\Outsurance\Outsurance.Assessment\obj\Debug\Outsurance.Assessment.csprojResolveAssemblyReference.cache
+C:\Users\gavin.jeffrey\Documents\visual studio 2017\Projects\Outsurance\Outsurance.Assessment\obj\Debug\Outsurance.Assessment.exe
+C:\Users\gavin.jeffrey\Documents\visual studio 2017\Projects\Outsurance\Outsurance.Assessment\obj\Debug\Outsurance.Assessment.pdb
